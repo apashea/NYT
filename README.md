@@ -3,7 +3,7 @@
 ### Introduction
 This natural-language processing project, still in construction though with workable code, uses Python packages 
 to read in OCR-based .xml files of ProQuest's historical database of New York Times articles.
-I am grateful to the Regenstein Library's staff for giving me access to this data while I was still a MAPSS student as
+I am grateful to the University of Chicago Regenstein Library's staff for giving me access to this data while I was still a MAPSS student as
 well as to a fellow student and friend in the MACSS program (anon for now until this project is cleaner and more presentable
 following further future collaborative work) who introduced me to the exciting world of natural-language processing.
 
