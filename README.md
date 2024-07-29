@@ -9,7 +9,7 @@ following further future collaborative work) who introduced me to the exciting w
 
 ### Context, Data
 This project began as a final project for a UChicago course on the history of censorship. The goal was to
-use innovative methods such as Latent Derelict Allocation which have only recently been introduced into the
+use innovative methods such as Latent Dirichlet Allocation which have only recently been introduced into the
 digital humanities and historical methods in particular. The code reads in the .xml files, filters them
 for only articles containing the words 'censor' and 'censorship' (of course one could exeriment with these limit words
 more in the future), and extracts their years. We can then check the frequency of censorship articles per year over time
